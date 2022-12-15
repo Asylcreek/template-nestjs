@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository. This template comes with `ESlint` rules, `Prettier` config, `@nestjs/config` setup.
+[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository. This template comes with `ESlint` rules, `Prettier` config, `@nestjs/config` setup, and some Github Actions setup.
 
 You would might need to update the packages when you clone this repo to make sure they are up to date and all.
 
