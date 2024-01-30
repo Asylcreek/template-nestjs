@@ -81,6 +81,7 @@
     "*.{js,jsx,ts,tsx,css,md}": "pnpm format"
   },
   "engines": {
-    "node": "^18.17"
+    "node": "^18.17",
+    "pnpm": "^8"
   }
 }
