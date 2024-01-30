@@ -1,3 +1,5 @@
+name: Build app
+
 on: [push, pull_request]
 
 jobs:
