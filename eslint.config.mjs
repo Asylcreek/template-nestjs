@@ -39,8 +39,7 @@ export default [
 
       parserOptions: {
         project: 'tsconfig.json',
-        tsconfigRootDir:
-          '/Users/asylcreek/Documents/github-templates/nestjs-ts',
+        tsconfigRootDir: '.',
       },
     },
 
