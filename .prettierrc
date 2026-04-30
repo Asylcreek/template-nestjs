@@ -7,5 +7,16 @@
   "bracketSpacing": true,
   "bracketSameLine": false,
   "htmlWhitespaceSensitivity": "css",
-  "endOfLine": "lf"
+  "endOfLine": "lf",
+  "plugins": ["@trivago/prettier-plugin-sort-imports"],
+  "importOrderSeparation": true,
+  "importOrderSortSpecifiers": true,
+  "importOrder": [
+    "<THIRD_PARTY_MODULES>",
+    "<SEPARATOR>",
+    "^@/",
+    "^src/",
+    "^[./]"
+  ],
+  "importOrderParserPlugins": ["classProperties", "decorators", "typescript"]
 }
